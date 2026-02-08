@@ -6,7 +6,6 @@
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
 | Synthetic medical education in dermatology leveraging generative artificial intelligence|   GPT-4   | 2025 |      none       | npj Digital Medicine |
 | Large language models encode clinical knowledge |   Med-PaLM  | 08/2023 |      none      | Nature |
-
 | Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs |   Uniqueness-Aware RL   | 2026 |      [code](https://github.com/zhiyuanhubj/Uniqueness-Aware-RL)       | arXiv |
 
 ##### Medical LLM
