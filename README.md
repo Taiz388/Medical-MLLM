@@ -6,10 +6,10 @@
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
 | Synthetic medical education in dermatology leveraging generative artificial intelligence|   GPT-4   | 2025 |      none       | npj Digital Medicine |
 | Large language models encode clinical knowledge |   Med-PaLM  | 08/2023 |      none      | Nature |
-| A multimodal vision foundation model for clinical dermatology |   PanDerm   | 04/2024 |      [project page]()       | CVPR |
+
 | Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs |   Uniqueness-Aware RL   | 2026 |      [code](https://github.com/zhiyuanhubj/Uniqueness-Aware-RL)       | arXiv |
 
-#####Medical LLM
+##### Medical LLM
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
 | HuatuoGPT-o1: Towards Medical Complex Reasoning with LLMs|  HuatuoGPT-o1  | 2024 |      [code](https://github.com/FreedomIntelligence/HuatuoGPT-o1)       | arXiv |
@@ -58,10 +58,10 @@
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
 
-#####Medical MLLM
+##### Medical MLLM
  | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
-| A multimodal vision foundation model for clinical dermatology |   PanDerm   | 08/2025 |     none       | Nature Medicine |
+| A multimodal vision foundation model for clinical dermatology |   PanDerm   | 08/2025 |     [code](https://github.com/SiyuanYan1/PanDerm)       | Nature Medicine |
 | Pre-trained multimodal large language model enhances dermatological diagnosis using SkinGPT-4|  SkinGPT-4  | 07/2024 |      none      | Nature Communications |
 | DermoGPT: Open Weights and Open Data for Morphology-Grounded Dermatological Reasoning MLLMs|  DermoGPT   | 2026 |      [code](https://github.com/mendicant04/DermoGPT)       | CNS |
 | MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant |   MedM2G   | 2024 |      none      | CVPR |
