@@ -10,7 +10,8 @@
 
 # --- 配置区域 (每次用于新项目时，请修改此处的仓库地址) ---
 # 请将下面的链接替换为您的目标 GitHub 仓库地址
-$RepoUrl = "https://github.com/Taiz388/Your-Repo-Name.git" 
+$RepoUrl = "https://github.com/Taiz388/Medical-MLLM.git" 
+
 $BranchName = "main"
 
 # 获取用户输入的提交信息（如果不输入则使用默认值）

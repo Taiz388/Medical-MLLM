@@ -4,10 +4,10 @@
 ##### LLM 
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
-| [**Synthetic medical education in dermatology leveraging generative artificial intelligence**]|   GPT-4   | 2025 |      none       | npj Digital Medicine |
-| [**Large language models encode clinical knowledge**] |   Med-PaLM  | 08/2023 |      none      | Nature |
-| [**A multimodal vision foundation model for clinical dermatology**] |   PanDerm   | 04/2024 |      [project page]()       | CVPR |
-| [**An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM**](https://arxiv.org/abs/2403.18406) |   IG-VLM   | 03/2024 |      [code](https://github.com/imagegridworth/IG-VLM)       | arXiv |
+| Synthetic medical education in dermatology leveraging generative artificial intelligence|   GPT-4   | 2025 |      none       | npj Digital Medicine |
+| Large language models encode clinical knowledge |   Med-PaLM  | 08/2023 |      none      | Nature |
+| A multimodal vision foundation model for clinical dermatology |   PanDerm   | 04/2024 |      [project page]()       | CVPR |
+| Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs |   Uniqueness-Aware RL   | 2026 |      [code](https://github.com/zhiyuanhubj/Uniqueness-Aware-RL)       | arXiv |
 | [**Language repository for long video understanding**](https://arxiv.org/abs/2403.14622) |   LangRepo   | 03/2024 |      [code](https://github.com/kkahatapitiya/LangRepo)       | arXiv |
 | [**Understanding long videos in one multimodal language model pass**](https://arxiv.org/abs/2403.16998) |   MVU   | 03/2024 |      [code](https://github.com/kahnchana/mvu)       | arXiv |
 | [**Video ReCap recursive captioning of hour-long videos**](https://arxiv.org/abs/2402.13250) |   Video ReCap   | 02/2024 |      [code](https://sites.google.com/view/vidrecap)       | CVPR |
@@ -22,37 +22,42 @@
 #####Medical LLM
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
-| [**HuatuoGPT-o1: Towards Medical Complex Reasoning with LLMs**]|  HuatuoGPT-o1  | 2024 |      [code](https://github.com/FreedomIntelligence/HuatuoGPT-o1)       | arXiv |
-| [**DermETAS-SNA LLM: A Dermatology Focused Evolutionary Transformer Architecture Search with StackNet Augmented LLM Assistant**] |   DermETAS-SNA LLM Assistant   | 2025 |     none     | CNS |
-| [**MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs**] |   MedReason-8B   | 04/2025 |      [code](https://github.com/UCSC-VLAA/MedReason)       | arXiv |
-| [**Quantifying the reasoning abilities of LLMs on clinical cases**] |  none   |11/2025 |      [code](https://github.com/MAGIC-AI4Med/MedRBench)      | Nature Communications|
-| [**EPIQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning**] |   EpiQAL   | 01/2026 |      [code](https://github.com/myweiii/EpiQAL)       | arXiv |
-| [**MedRedFlag: Investigating how LLMs Redirect Misconceptions in Real-World Health Communication**]|   none   | 2026 |     none       | arXiv |
-| [**MIMIC-RD: Can LLMs Differentially Diagnose Rare Diseases in Real-World Clinical Settings?**] |   none   | 2025 |      [code](https://github.com/zelal-Eizaldeen/rare_disease_pyHealth/tree/main)       | ML4H |
-| [**MLB: A Scenario-Driven Benchmark for Evaluating Large Language Models in Clinical Applications**] |   none   | 2026 |    none      | arXiv |
-| [**ReGraM: Region-First Knowledge Graph Reasoning for Medical Question Answering**] |   ReGraM   | 2026 |     none      | arXiv |
-| [**SELF-MEDRAG: A Self-Reflective Hybrid Retrieval-Augmented Generation Framework for Reliable Medical Question Answering**]| Self-MedRAG  | 2026 |none| Journal of Engineering Science and Technology |
-| [**Implications of Integrating Large Language Models into Clinical Decision Making**] |   none   | 2026 |      none      | Communications Medicine |
-| [**VURF a general-purpose reasoning and self-refinement framework for video understanding**](https://arxiv.org/abs/2403.14743) |   VURF   | 03/2024 |      [code]()       | arXiv |
-| [**Why not use your textbook knowledge-enhanced procedure planning of instructional videos**](https://arxiv.org/abs/2403.02782) |   KEPP   | 03/2024 |      [code]()       | CVPR |
-| [**DoraemonGPT toward understanding dynamic scenes with large language models**](https://arxiv.org/abs/2401.08392) |   DoraemonGPT   | 01/2024 |      [code](https://github.com/z-x-yang/DoraemonGPT)       | arXiv |
-| [**LifelongMemory: Leveraging LLMs for Answering Queries in Long-form Egocentric Videos**](https://arxiv.org/abs/2312.05269) |   LifelongMemory   | 12/2023 |      [code](https://github.com/Agentic-Learning-AI-Lab/lifelong-memory)       | arXiv |
-| [**Zero-Shot Video Question Answering with Procedural Programs**](https://arxiv.org/abs/2312.00937) |   ProViQ   | 12/2023 |      [code](https://rccchoudhury.github.io/proviq2023)       | arXiv |
-| [**AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn**](https://arxiv.org/abs/2306.08640) |   AssistGPT   | 06/2023 |      [code](https://showlab.github.io/assistgpt/)       | arXiv |
-| [**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**](https://arxiv.org/abs/2304.14407) |      ChatVideo      | 04/2023 |    [project page](https://www.wangjunke.info/ChatVideo/)     | arXiv |
-| [**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://arxiv.org/abs/2304.04227)[![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | Video ChatCaptioner | 04/2023 | [code](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | arXiv |
-| [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) |   ViperGPT   | 03/2023 |      [code](https://viper.cs.columbia.edu/)       | arXiv |
-| [**Hawk: Learning to Understand Open-World Video Anomalies**](https://arxiv.org/abs/2405.16886) |   Hawk   | 05/2024 |      [code](https://github.com/jqtangust/hawk)       | arXiv |
+| HuatuoGPT-o1: Towards Medical Complex Reasoning with LLMs|  HuatuoGPT-o1  | 2024 |      [code](https://github.com/FreedomIntelligence/HuatuoGPT-o1)       | arXiv |
+| DermETAS-SNA LLM: A Dermatology Focused Evolutionary Transformer Architecture Search with StackNet Augmented LLM Assistant |   DermETAS-SNA LLM Assistant   | 2025 |     none     | CNS |
+| MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs |   MedReason-8B   | 04/2025 |      [code](https://github.com/UCSC-VLAA/MedReason)       | arXiv |
+| Quantifying the reasoning abilities of LLMs on clinical cases|  none   |11/2025 |      [code](https://github.com/MAGIC-AI4Med/MedRBench)      | Nature Communications|
+| EPIQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning|   EpiQAL   | 01/2026 |      [code](https://github.com/myweiii/EpiQAL)       | arXiv |
+| MedRedFlag: Investigating how LLMs Redirect Misconceptions in Real-World Health Communication|   none   | 2026 |     none       | arXiv |
+| MIMIC-RD: Can LLMs Differentially Diagnose Rare Diseases in Real-World Clinical Settings? |   none   | 2025 |      [code](https://github.com/zelal-Eizaldeen/rare_disease_pyHealth/tree/main)       | ML4H |
+| MLB: A Scenario-Driven Benchmark for Evaluating Large Language Models in Clinical Applications |   none   | 2026 |    none      | arXiv |
+| ReGraM: Region-First Knowledge Graph Reasoning for Medical Question Answering |   ReGraM   | 2026 |     none      | arXiv |
+| SELF-MEDRAG: A Self-Reflective Hybrid Retrieval-Augmented Generation Framework for Reliable Medical Question Answering| Self-MedRAG  | 2026 |none| Journal of Engineering Science and Technology |
+| Implications of Integrating Large Language Models into Clinical Decision Making |   none   | 2026 |      none      | Communications Medicine |
+| MedEinst: Benchmarking the Einstellung Effect in Medical LLMs through Counterfactual Differential Diagnosis |   MedEinst，ECR-Agent  | 2026 |     none      | arXiv |
+| MedRAGChecker: Claim-Level Verification for Biomedical Retrieval-Augmented Generation |   MedRAGChecker   | 2026 |      [code](https://anonymous.4open.science/r/Medica)       | arXiv |
+| DKG-LLM: A Framework for Medical Diagnosis and Personalized Treatment Recommendations via Dynamic Knowledge Graph and Large Language Model Integration |   DKG-LLM   | 2026 |      none       | arXiv |
+| CancerGUIDE: Cancer Guideline Understanding via Internal Disagreement Estimation |   CancerGUIDE   | 2025 |      [code](CancerGUIDE repository)       | ML4H |
+| An Iterative LLM Framework for SIBT utilizing RAG-based Adaptive Weight Optimization |   LLM-assisted SIBT Framework   | 2025|  none     | arXiv |
+| AR-Med: Automated Relevance Enhancement in Medical Search via LLM-Driven Information Augmentation |      AR-Med      | 2025 |    none    | arXiv |
+| Training and Evaluation of Guideline-Based Medical Reasoning in LLMs | LLaMA-8B | 2025 | [code](https://github.com/StatNLP/guideline_based_medical_reasoning_LLM) | arXiv |
+| MedBioRAG: Semantic Search and Retrieval-Augmented Generation with Large Language Models for Medical and Biological QA|   MedBioRAG   | 2025 |      none       | arXiv |
+| MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded Reasoning in LLMs |  MediEval   | 2025 |      [code](https://openreview.net/forum?id=tnB94WQGrn)       | arXiv |
+| ClinDEF: A Dynamic Evaluation Framework for Large Language Models in Clinical Reasoning |  ClinDEF  | 2025 |      none       | arXiv |
+| MedKGI: Iterative Differential Diagnosis with Medical Knowledge Graphs and Information-Guided Inquiring |  MedKGI   | 2025 |      none       | arXiv |
+| A benchmark dataset for evaluating Syndrome Differentiation and Treatment in LLM |  TCM-BEST4SDT   | 2025 |      [code](Figshare)       | arXiv |
+| A benchmark dataset for evaluating Syndrome Differentiation and Treatment in LLM |  TCM-BEST4SDT   | 2025 |      [code](Figshare)       | arXiv |
+| A benchmark dataset for evaluating Syndrome Differentiation and Treatment in LLM |  TCM-BEST4SDT   | 2025 |      [code](Figshare)       | arXiv |
+| A benchmark dataset for evaluating Syndrome Differentiation and Treatment in LLM |  TCM-BEST4SDT   | 2025 |      [code](Figshare)       | arXiv |
 
 
 ##### Agent
 
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
-| [**TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools**]|   TxAgent   | 2025 |      [code](https://github.com/mims-harvard/TxAgent )     | CNS |
-| [**ADASEARCH: Adaptive Search with Explicit Self-Knowledge Awareness**] |   ADASEARCH   | 2025 |    [code](https://github.com/hank0316/AdaSearch)      | arXiv |
-| [**FUAS-AGENTS: AUTONOMOUS MULTI-MODAL LLM AGENTS FOR TREATMENT PLANNING IN FOCUSED ULTRASOUND ABLATION SURGERY**] |   FUAS-Agents   |2026|      [code](https://anonymous.4open.science/r/FUAS-7D56)       | ICLR |
-| [**Fewer tokens and fewer videos extending video understanding abilities in large vision-language models**](https://arxiv.org/abs/2406.08024) |   FTFV-LLM   | 06/2024 |      -      | arXiv |
+| TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools|   TxAgent   | 2025 |      [code](https://github.com/mims-harvard/TxAgent )     | CNS |
+| ADASEARCH: Adaptive Search with Explicit Self-Knowledge Awareness|   ADASEARCH   | 2025 |    [code](https://github.com/hank0316/AdaSearch)      | arXiv |
+| FUAS-AGENTS: AUTONOMOUS MULTI-MODAL LLM AGENTS FOR TREATMENT PLANNING IN FOCUSED ULTRASOUND ABLATION SURGERY |   FUAS-Agents   |2026|      [code](https://anonymous.4open.science/r/FUAS-7D56)       | ICLR |
+| Fewer tokens and fewer videos extending video understanding abilities in large vision-language models(https://arxiv.org/abs/2406.08024) |   FTFV-LLM   | 06/2024 |      -      | arXiv |
 | [**Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams**](https://arxiv.org/abs/2406.08085) |   Flash-VStream   | 06/2024 |      [code](https://invinciblewyq.github.io/vstream-page/)       | arXiv |
 | [**LLAVIDAL benchmarking large language vision models for daily activities of living**](https://arxiv.org/abs/2406.09390) |   LLAVIDAL   | 06/2024 |      [code](https://adl-x.github.io/)       | arXiv |
 | [**Long context transfer from language to vision**](https://arxiv.org/abs/2406.16852) |   LongVA   | 06/2024 |      [code](https://github.com/EvolvingLMMs-Lab/LongVA)       | arXiv |
@@ -119,7 +124,7 @@
  -->
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
-|[**LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval**](https://arxiv.org/pdf/2411.14505)|LLaVA-MR|11/2024|[code]()| arXiv |
+|LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval(https://arxiv.org/pdf/2411.14505)|LLaVA-MR|11/2024|[code]()| arXiv |
 | [**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**](https://arxiv.org/abs/2406.12235) |   Holmes-VAD   | 06/2024 |      [code](https://holmesvad.github.io/)       | arXiv |
 | [**VideoLLM-online online video large language model for streaming video**](https://arxiv.org/abs/2406.11816) |   VideoLLM-online   | 06/2024 |      [code](https://showlab.github.io/videollm-online)       | CVPR |
 | [**HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision**](https://arxiv.org/abs/2404.09933) |   VLM4HOI   | 04/2024 |      [project page](https://sid2697.github.io/hoi-ref/)       | arXiv |
@@ -137,18 +142,22 @@
 #####Medical MLLM
  | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
-| [**A multimodal vision foundation model for clinical dermatology**] |   PanDerm   | 08/2025 |     none       | Nature Medicine |
-| [**Pre-trained multimodal large language model enhances dermatological diagnosis using SkinGPT-4**]|  SkinGPT-4  | 07/2024 |      none      | Nature Communications |
-| [**DermoGPT: Open Weights and Open Data for Morphology-Grounded Dermatological Reasoning MLLMs**]|   DermoGPT   | 2026 |      [code](https://github.com/mendicant04/DermoGPT)       | CNS |
-| [**MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant**] |   MedM2G   | 2024 |      none      | CVPR |
-| [**Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning**] |  Lingshu  | 06/2025 |     [code](https://alibaba-damo-academy.github.io/lingshu/ )     | none |
-| [**MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding**] |   MedGRPO   | 2025 |     [code]( https://yuhaosu.github.io/MedGRPO/ )   | arXiv |
-| [**MEDREASON-R1: LEARNING TO REASON FOR CT DIAGNOSIS WITH REINFORCEMENT LEARNING AND LOCAL ZOOM**] |   MedReason-R1   | 10/2025 |    [code]( https://github.com/Leevan001/MedReason-R1 )      | arXiv |
-| [**Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting**]|  none  | 01/2026 |     none      | arXiv |
-| [**DISCRETE DIFFUSION MODELS WITH MLLMS FOR UNIFIED MEDICAL MULTIMODAL GENERATION**]|  MeDiM  |2026 |     none      | ICLR |
-| [**MedTutor-R1: Socratic Personalized Medical Teaching with Multi-Agent Simulation**]| MedTutor-R1 | 12/2025 |     [code](https://github.com/Zhitao-He/MedTutor-R1)   | arXiv |
-| [**UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation**]| UniX  | 2026 |     [code](https://github.com/ZrH42/UniX)      | arXiv |
-| [**Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting**]|  none  | 01/2026 |     none      | arXiv |
+| A multimodal vision foundation model for clinical dermatology |   PanDerm   | 08/2025 |     none       | Nature Medicine |
+| Pre-trained multimodal large language model enhances dermatological diagnosis using SkinGPT-4|  SkinGPT-4  | 07/2024 |      none      | Nature Communications |
+| DermoGPT: Open Weights and Open Data for Morphology-Grounded Dermatological Reasoning MLLMs|  DermoGPT   | 2026 |      [code](https://github.com/mendicant04/DermoGPT)       | CNS |
+| MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant |   MedM2G   | 2024 |      none      | CVPR |
+| Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning |  Lingshu  | 06/2025 |     [code](https://alibaba-damo-academy.github.io/lingshu/ )     | none |
+| MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding |   MedGRPO   | 2025 |     [code]( https://yuhaosu.github.io/MedGRPO/ )   | arXiv |
+| MEDREASON-R1: LEARNING TO REASON FOR CT DIAGNOSIS WITH REINFORCEMENT LEARNING AND LOCAL ZOOM |   MedReason-R1   | 10/2025 |    [code]( https://github.com/Leevan001/MedReason-R1 )      | arXiv |
+| Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting|  none  | 01/2026 |     none      | arXiv |
+| DISCRETE DIFFUSION MODELS WITH MLLMS FOR UNIFIED MEDICAL MULTIMODAL GENERATION|  MeDiM  |2026 |     none      | ICLR |
+| MedTutor-R1: Socratic Personalized Medical Teaching with Multi-Agent Simulation| MedTutor-R1 | 12/2025 |     [code](https://github.com/Zhitao-He/MedTutor-R1)   | arXiv |
+| UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation| UniX  | 2026 |     [code](https://github.com/ZrH42/UniX)      | arXiv |
+| Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach|  Hybrid RAG for MLLM  | 2024 |     none      | arXiv |
+| INFORM-CT: Integrating LLMs and VLMs for Incidental Findings Management in Abdominal CT|  INFORM-CT  | 2025 |     none      | arXiv |
+| Enhancing Lung Cancer Treatment Outcome Prediction through Semantic Feature Engineering Using Large Language Models|  GKC  | 2025 |     none      | arXiv |
+| A Medical Multimodal Diagnostic Framework Integrating Vision-Language Models and Logic Tree Reasoning|  Vision-Language Alignment with Logic Tree Reasoning  | 2025 |     none      | arXiv |
+
 
 ##### Networks&Review
 <!-- 
@@ -156,9 +165,9 @@
  -->
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
-|[**Combinatorial prediction of therapeutic perturbations using causally inspired neural networks**]|PDGrapher|07/2025|none| Nature Biomedical Engineering |
-| [**Medical Reasoning in the Era of LLMs: A Systematic Review of Enhancement Techniques and Applications**]|   none  | 2025 |      none       | none |
-| [**VideoLLM-online online video large language model for streaming video**](https://arxiv.org/abs/2406.11816) |   VideoLLM-online   | 06/2024 |      [code](https://showlab.github.io/videollm-online)       | CVPR |
+|Combinatorial prediction of therapeutic perturbations using causally inspired neural networks|PDGrapher|07/2025|none| Nature Biomedical Engineering |
+| Medical Reasoning in the Era of LLMs: A Systematic Review of Enhancement Techniques and Applications|   none  | 2025 |      none       | none |
+| VideoLLM-online online video large language model for streaming video(https://arxiv.org/abs/2406.11816) |   VideoLLM-online   | 06/2024 |      [code](https://showlab.github.io/videollm-online)       | CVPR |
 | [**HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision**](https://arxiv.org/abs/2404.09933) |   VLM4HOI   | 04/2024 |      [project page](https://sid2697.github.io/hoi-ref/)       | arXiv |
 | [**V2Xum-LLM cross-modal video summarization with temporal prompt instruction tuning**](https://arxiv.org/abs/2404.12353) |   V2Xum-LLaMA   | 04/2024 |      [code](https://hanghuacs.github.io/v2xum/)       | arXiv |
 | [**AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary Alignment for Temporal Referential Dialogue**](https://arxiv.org/abs/2403.16276) |   AVicuna   | 03/2024 |      [code]()       | arXiv |
